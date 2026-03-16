@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://MarsVMondo.github.io/MarsVMondo.github.io/sitemap.xml
